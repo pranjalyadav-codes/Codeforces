@@ -11,17 +11,16 @@ Each solution includes the problem link, difficulty rating, tags, and a brief ex
 - **Codeforces Handle:** [pranjalyadavcoding](https://codeforces.com/profile/pranjalyadavcoding)
 - **Goal:** Strengthen DSA fundamentals and problem-solving skills as part of my journey toward becoming an AI/ML Engineer
 
-
 Problems are organized by **rating range** (can switch to topic-based folders like `dp/`, `graphs/`, `greedy/` later if preferred).
 
 Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 
 ## 📊 Progress Tracker
 
-| # | Problem | Rating | Topic | Status | Notes |
-|---|---------|--------|-------|--------|-------|
-| 1 | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | Math | ✅ Solved | Simple even-number check |
-| 2 | — | — | — | — | — |
+| #   | Problem                                                                              | Rating | Topic        | Status    | Notes                               |
+| --- | ------------------------------------------------------------------------------------ | ------ | ------------ | --------- | ----------------------------------- |
+| 1   | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A)                     | 800    | Math         | ✅ Solved | Simple even-number check            |
+| 2   | [A - Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800    | Math, Greedy | ✅ Solved | Sort and check if max can be shrunk |
 
 ## 🚀 Notes
 

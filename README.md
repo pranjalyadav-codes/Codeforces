@@ -23,6 +23,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 2   | [A - Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800    | Math, Greedy                | ✅ Solved | Sort and check if max can be shrunk  |
 | 3   | [A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A)             | 800    | Strings, Implementation     | ✅ Solved | First+count+last letter abbreviation |
 | 4   | [A - Team](https://codeforces.com/problemset/problem/231/A)                          | 800    | Implementation, Brute Force | ✅ Solved | Count problems where sum(a,b,c) >= 2 |
+| 5   | [A - Domino Piling](https://codeforces.com/problemset/problem/50/A)                  | 800    | Math, Greedy                | ✅ Solved | Answer is simply (M\*N)//2           |
 
 ## 🚀 Notes
 

@@ -25,6 +25,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 4   | [A - Team](https://codeforces.com/problemset/problem/231/A)                          | 800    | Implementation, Brute Force | ✅ Solved | Count problems where sum(a,b,c) >= 2                 |
 | 5   | [A - Domino Piling](https://codeforces.com/problemset/problem/50/A)                  | 800    | Math, Greedy                | ✅ Solved | Answer is simply (M\*N)//2                           |
 | 6   | [A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)              | 800    | Implementation, Math        | ✅ Solved | Manhattan distance from 1's position to center (3,3) |
+| 7   | [A - Petya and Strings](https://codeforces.com/problemset/problem/112/A)             | 800    | Implementation, Strings     | ✅ Solved | Lowercase both strings, then compare directly        |
 
 ## 🚀 Notes
 

@@ -37,6 +37,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 16  | [A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)             | 800    | Implementation                    | ✅ Solved | Simulate: subtract 1 if last digit nonzero, else divide by 10                       |
 | 17  | [A - Nearly Lucky Number](https://codeforces.com/problemset/problem/121/A)           | 800    | Implementation, Strings           | ✅ Solved | Count lucky digits (4/7); since count ≤ 19, only need to check count==4 or count==7 |
 | 18  | [A - Anton and Danik](https://codeforces.com/problemset/problem/734/A)               | 800    | Implementation, Strings           | ✅ Solved | Count 'A' vs 'D' occurrences, compare                                               |
+| 19  | [A - Translation](https://codeforces.com/problemset/problem/41/A)                    | 800    | Implementation, Strings           | ✅ Solved | Check if t equals reverse of s using slicing                                        |
 
 ## 🚀 Notes
 

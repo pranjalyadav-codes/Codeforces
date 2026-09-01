@@ -30,6 +30,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 9   | [A - Helpful Maths](https://codeforces.com/problemset/problem/339/A)                 | 800    | Implementation, Sorting, Strings  | ✅ Solved | Split on '+', sort, rejoin                                                     |
 | 10  | [A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)           | 800    | Implementation, Strings           | ✅ Solved | Capitalize first char only, keep rest unchanged (.capitalize() is a trap here) |
 | 11  | [A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)          | 800    | Implementation, Math, Brute Force | ✅ Solved | Simulate a*=3, b*=2 each year until a > b (careful: equal doesn't count)       |
+| 12  | [A - Elephant](https://codeforces.com/problemset/problem/617/A)                      | 800    | Math, Greedy, Implementation      | ✅ Solved | Minimum steps = ceil(x/5), using (x+4)//5                                      |
 
 ## 🚀 Notes
 

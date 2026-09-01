@@ -33,6 +33,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 12  | [A - Elephant](https://codeforces.com/problemset/problem/617/A)                      | 800    | Math, Greedy, Implementation      | ✅ Solved | Minimum steps = ceil(x/5), using (x+4)//5                                      |
 | 13  | [A - Stones on the Table](https://codeforces.com/problemset/problem/266/A)           | 800    | Implementation, Strings           | ✅ Solved | Count adjacent same-color pairs                                                |
 | 14  | [A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)           | 800    | Math, Implementation              | ✅ Solved | Total cost = k*w*(w+1)/2, borrow = max(0, cost-n)                              |
+| 15  | [A - Word](https://codeforces.com/problemset/problem/59/A)                           | 800    | Implementation, Strings           | ✅ Solved | Count upper vs lower; tie goes to lowercase                                    |
 
 ## 🚀 Notes
 

@@ -38,6 +38,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 17  | [A - Nearly Lucky Number](https://codeforces.com/problemset/problem/121/A)           | 800    | Implementation, Strings           | ✅ Solved | Count lucky digits (4/7); since count ≤ 19, only need to check count==4 or count==7 |
 | 18  | [A - Anton and Danik](https://codeforces.com/problemset/problem/734/A)               | 800    | Implementation, Strings           | ✅ Solved | Count 'A' vs 'D' occurrences, compare                                               |
 | 19  | [A - Translation](https://codeforces.com/problemset/problem/41/A)                    | 800    | Implementation, Strings           | ✅ Solved | Check if t equals reverse of s using slicing                                        |
+| 20  | [A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A)               | 800    | Implementation                    | ✅ Solved | Width += 1 if height<=h, else += 2                                                  |
 
 ## 🚀 Notes
 

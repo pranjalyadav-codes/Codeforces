@@ -42,6 +42,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 21  | [A - Beautiful Year](https://codeforces.com/problemset/problem/271/A)                | 800    | Implementation, Brute Force       | ✅ Solved | Increment from y+1, check distinct digits via set()                                 |
 | 22  | [A - Tram](https://codeforces.com/problemset/problem/116/A)                          | 800    | Implementation, Brute Force       | ✅ Solved | Simulate passenger count, track max after each stop                                 |
 | 23  | [A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 800    | Implementation                    | ✅ Solved | Print "HARD" if 1 is in responses, else "EASY"                                      |
+| 24  | [A - George and Accommodation](https://codeforces.com/problemset/problem/709/A)      | 800    | Implementation                    | ✅ Solved | Count rooms where (q - p) >= 2                                                      |
 
 ## 🚀 Notes
 

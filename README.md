@@ -45,6 +45,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 24  | [A - George and Accommodation](https://codeforces.com/problemset/problem/709/A)      | 800    | Implementation                    | ✅ Solved | Count rooms where (q - p) >= 2                                                      |
 | 25  | [A - Calculating Function](https://codeforces.com/problemset/problem/831/A)          | 800    | Math                              | ✅ Solved | Even n -> n/2, odd n -> -(n+1)/2                                                    |
 | 26  | [A - Magnets](https://codeforces.com/problemset/problem/344/A)                       | 800    | Implementation                    | ✅ Solved | Count groups: new group when orientation differs from previous magnet               |
+| 27  | [B - Drinks](https://codeforces.com/problemset/problem/520/B)                        | 800    | Math, Implementation              | ✅ Solved | Answer is simply average of all percentages                                         |
 
 ## 🚀 Notes
 

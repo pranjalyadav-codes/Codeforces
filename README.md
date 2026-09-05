@@ -49,6 +49,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 28  | [A - Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 800    | Implementation                    | ✅ Solved | Buy = 4 - number of distinct colors (using a set)                                   |
 | 29  | [A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)              | 800    | Implementation, Strings           | ✅ Solved | Digit-wise XOR: 1 if digits differ, else 0                                          |
 | 30  | [A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                | 800    | Math, Implementation              | ✅ Solved | Remainder = a%b; moves = 0 if remainder=0, else b-remainder                         |
+| 31  | [A - Hulk](https://codeforces.com/problemset/problem/705/A)                                 | 800    | Implementation, Strings           | ✅ Solved | Alternate "I hate"/"I love" per layer, joined by "that ", ending "it"               |
 
 ## 🚀 Notes
 

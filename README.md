@@ -51,6 +51,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 30  | [A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                | 800    | Math, Implementation              | ✅ Solved | Remainder = a%b; moves = 0 if remainder=0, else b-remainder                         |
 | 31  | [A - Hulk](https://codeforces.com/problemset/problem/705/A)                                 | 800    | Implementation, Strings           | ✅ Solved | Alternate "I hate"/"I love" per layer, joined by "that ", ending "it"               |
 | 32  | [A - Pangram](https://codeforces.com/problemset/problem/520/A)                              | 800    | Implementation, Strings           | ✅ Solved | Lowercase string, check if set of chars has 26 distinct letters                     |
+| 33  | [A - I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                   | 800    | Implementation, Sets              | ✅ Solved | Union of both level sets; check if size equals n                                    |
 
 ## 🚀 Notes
 

@@ -52,7 +52,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 31  | [A - Hulk](https://codeforces.com/problemset/problem/705/A)                                 | 800    | Implementation, Strings           | ✅ Solved | Alternate "I hate"/"I love" per layer, joined by "that ", ending "it"               |
 | 32  | [A - Pangram](https://codeforces.com/problemset/problem/520/A)                              | 800    | Implementation, Strings           | ✅ Solved | Lowercase string, check if set of chars has 26 distinct letters                     |
 | 33  | [A - I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                   | 800    | Implementation, Sets              | ✅ Solved | Union of both level sets; check if size equals n                                    |
-| 33  | [A - Arrival of the General](https://codeforces.com/problemset/problem/144/A)               | 800    | Implementation                    | ✅ Solved | Find first max index & last min index; adjust for overlap                           |
+| 34  | [A - Arrival of the General](https://codeforces.com/problemset/problem/144/A)               | 800    | Implementation                    | ✅ Solved | Find first max index & last min index; adjust for overlap                           |
 
 ## 🚀 Notes
 

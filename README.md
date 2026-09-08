@@ -57,6 +57,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 36  | [A - Anton and Letters](https://codeforces.com/problemset/problem/443/A)                    | 800    | Implementation, Strings           | ✅ Solved | Filter lowercase letters into a set, print set size                                 |
 | 37  | [A - Insomnia cure](https://codeforces.com/problemset/problem/148/A)                        | 800    | Implementation, Brute Force       | ✅ Solved | Loop 1 to d, count divisible by k, l, m, or n                                       |
 | 38  | [A - Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)                | 800    | Implementation, Strings           | ✅ Solved | Dictionary mapping shape name to face count, sum over all inputs                    |
+| 39  | [A - Sum](https://codeforces.com/problemset/problem/1742/A)                                 | 800    | Implementation, Math, Brute Force | ✅ Solved | Check if any of a, b, c equals sum of the other two                                 |
 
 ## 🚀 Notes
 

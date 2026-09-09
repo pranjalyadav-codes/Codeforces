@@ -59,6 +59,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 38  | [A - Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)                | 800    | Implementation, Strings           | ✅ Solved | Dictionary mapping shape name to face count, sum over all inputs                    |
 | 39  | [A - Sum](https://codeforces.com/problemset/problem/1742/A)                                 | 800    | Implementation, Math, Brute Force | ✅ Solved | Check if any of a, b, c equals sum of the other two                                 |
 | 40  | [A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)                | 800    | Math, Implementation              | ✅ Solved | Each non-zero digit at its place value is a round-number term                       |
+| 41  | [A - Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)             | 800    | Math                              | ✅ Solved | Answer = (n-1)//2, since b ranges from 1 to floor((n-1)/2)                          |
 
 ## 🚀 Notes
 

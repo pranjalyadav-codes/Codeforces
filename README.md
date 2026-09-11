@@ -61,6 +61,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 40  | [A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)                | 800    | Math, Implementation              | ✅ Solved | Each non-zero digit at its place value is a round-number term                       |
 | 41  | [A - Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)             | 800    | Math                              | ✅ Solved | Answer = (n-1)//2, since b ranges from 1 to floor((n-1)/2)                          |
 | 42  | [A - Games](https://codeforces.com/problemset/problem/268/A)                                | 800    | Implementation, Brute Force       | ✅ Solved | Count pairs (i,j) where h[i] == a[j]                                                |
+| 43  | [A - Amusing Joke](https://codeforces.com/problemset/problem/141/A)                         | 800    | Implementation, Strings, Sorting  | ✅ Solved | Sort combined guest+host letters and compare to sorted pile                         |
 
 ## 🚀 Notes
 

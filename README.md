@@ -62,6 +62,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 41  | [A - Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)             | 800    | Math                              | ✅ Solved | Answer = (n-1)//2, since b ranges from 1 to floor((n-1)/2)                          |
 | 42  | [A - Games](https://codeforces.com/problemset/problem/268/A)                                | 800    | Implementation, Brute Force       | ✅ Solved | Count pairs (i,j) where h[i] == a[j]                                                |
 | 43  | [A - Amusing Joke](https://codeforces.com/problemset/problem/141/A)                         | 800    | Implementation, Strings, Sorting  | ✅ Solved | Sort combined guest+host letters and compare to sorted pile                         |
+| 44  | [A - The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)        | 800    | Math, Implementation              | ✅ Solved | Answer = max(x1,x2,x3) - min(x1,x2,x3)                                              |
 
 ## 🚀 Notes
 

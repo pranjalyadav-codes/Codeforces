@@ -66,6 +66,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 45  | [A - Game with Integers](https://codeforces.com/problemset/problem/1899/A)                  | 800    | Math, Game Theory                 | ✅ Solved | Second wins if n%3==0, else First wins                                              |
 | 46  | [A - YES or YES?](https://codeforces.com/problemset/problem/1703/A)                         | 800    | Implementation, Strings           | ✅ Solved | Uppercase the string and compare directly to "YES"                                  |
 | 47  | [A - Police Recruits](https://codeforces.com/problemset/problem/427/A)                      | 800    | Implementation, Greedy            | ✅ Solved | Track available officers counter; increment untreated when none free                |
+| 48  | [B - Soft Drinking](https://codeforces.com/problemset/problem/41/B)                         | 800    | Implementation, Math              | ✅ Solved | Compute toasts from each resource, take min, divide by n friends                    |
 
 ## 🚀 Notes
 

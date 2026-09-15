@@ -1,6 +1,6 @@
 """
-Problem   : B. I_love_%username%
-Link      : https://codeforces.com/problemset/problem/141/B
+Problem   : A. I_love_%username%
+Link      : https://codeforces.com/problemset/problem/155/A
 Rating    : 800
 Tags      : implementation
 

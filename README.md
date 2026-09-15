@@ -69,6 +69,7 @@ Naming convention: `problemletter_name.py` (e.g. `A_watermelon.py`)
 | 48  | [A - Soft Drinking](https://codeforces.com/problemset/problem/41/B)                         | 800    | Implementation, Math              | ✅ Solved | Compute toasts from each resource, take min, divide by n friends                    |
 | 49  | [A - Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)                   | 800    | Math                              | ✅ Solved | For n>=2, 5^n always ends in "25" - no computation needed                           |
 | 50  | [A - I*love*%username%](https://codeforces.com/problemset/problem/155/A)                    | 800    | Implementation                    | ✅ Solved | Track running min/max, count strictly-new-record scores                             |
+| 51  | [A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A)                   | 800    | Implementation, Brute Force       | ✅ Solved | Accumulate 5\*i time per problem until available time runs out                      |
 
 ## 🚀 Notes
 
